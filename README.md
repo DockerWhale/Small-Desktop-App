@@ -33,8 +33,8 @@ Ensure you have Python 3 installed on your system.
 
 Clone the repository (or download the script):
 
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/DockerWhale/Small-Desktop-App.git
+cd Small-Desktop-App
 
 Run the application:
 Execute the following command in your terminal:
